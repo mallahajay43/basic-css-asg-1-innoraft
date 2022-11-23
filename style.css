@@ -1,0 +1,48 @@
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.top{
+    height: 15%;
+    background-color: #FF8DC7;
+}
+
+.mid{
+    height: 70%;
+    padding: 15px 0px;
+}
+
+.left-child{
+    float: left;
+    width: 70%;
+    height: 100%;
+    padding-right: 15px;
+}
+
+.inner{
+    height: 100%;
+    width: 100%;
+    background-color: #AF0171;
+}
+
+.right-child{
+    height: 100%;
+    float: right;
+    width: 30%;
+    background-color: #E80F88;
+}
+
+
+.bottom{
+    height: 15%;
+    background-color: #820045;
+}
